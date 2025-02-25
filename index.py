@@ -1,1 +1,1 @@
-print("Try Git & GitHub")
+print("Try Git & GitHub!")
